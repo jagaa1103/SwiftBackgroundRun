@@ -1,0 +1,3 @@
+# SwiftBackgroundRun
+
+I want to try long-running process in background-mode. Swift is cool... But it(backgroundMode)'s not easy to beginners...
